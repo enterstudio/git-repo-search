@@ -27,7 +27,7 @@
     "webpack-stream": "^2.3.0"
   },
   "dependencies": {
-    "del": "^2.2.0",
+    "del": "^6.0.0",
     "github-api": "github:clayreimann/github#add-webpack"
   }
 }
